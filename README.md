@@ -1,3 +1,13 @@
+# Install
+
+To install, run the following command
+
+- npm
+  `npm install`
+
+- yarn
+  `yarn install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
