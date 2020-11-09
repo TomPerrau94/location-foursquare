@@ -8,7 +8,7 @@ To install, run the following command
 
 - yarn
 
-  `yarn install`
+  `yarn add`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
